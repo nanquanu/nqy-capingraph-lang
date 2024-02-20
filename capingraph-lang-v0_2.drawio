@@ -1,0 +1,709 @@
+<mxfile host="65bd71144e">
+    <diagram id="LK3fupVu0zxN6cbfDjgw" name="Page-1">
+        <mxGraphModel dx="4991" dy="2989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" parent="0"/>
+                <mxCell id="3" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;rounded=0;shadow=0;glass=0;dashed=1;comic=0;sketch=0;fillColor=none;gradientColor=none;" vertex="1" parent="2">
+                    <mxGeometry x="525" y="699.99" width="1365" height="465" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;rounded=0;shadow=0;glass=0;dashed=1;comic=0;sketch=0;fillColor=none;gradientColor=none;" vertex="1" parent="2">
+                    <mxGeometry x="-1160" y="670" width="1160" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Fuzzy capability: Basic Artificial Intelligence Capabilities" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="2">
+                    <mxGeometry x="237.5" y="140" width="355" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry x="420" y="370" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Capability-EERG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=41;fontStyle=4" vertex="1" parent="2">
+                    <mxGeometry x="340" y="1670" width="440" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;div&gt;&lt;strong&gt;&lt;em&gt;capingraph-lang-V0.2 [V0.2 is in progress]&lt;br&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;&lt;em&gt;&lt;br&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;&lt;em&gt;&lt;/em&gt;&lt;/strong&gt;Capability-increment-graph language&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; definitions by example&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=41;fontStyle=4;fontColor=default;" vertex="1" parent="2">
+                    <mxGeometry x="200" y="-20" width="440" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;div style=&quot;font-size: 12px&quot;&gt;The class of artificial intelligence techniques&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="2">
+                    <mxGeometry x="417.5" y="1740" width="285" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;div&gt;The class of &lt;br&gt;&lt;/div&gt;&lt;div&gt;symbolic artificial intelligence techniques&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="2">
+                    <mxGeometry x="340" y="1900" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;div&gt;The class of sub-symbolic artificial intelligence techniques&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="2">
+                    <mxGeometry x="640" y="1900" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;div&gt;The class of machine learning techniques&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="2">
+                    <mxGeometry x="640" y="2080" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="10" target="9">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="392.5" y="1880" as="sourcePoint"/>
+                        <mxPoint x="492.5" y="1880" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;div&gt;isSubclassOf&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="13">
+                    <mxGeometry x="0.0701" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="11" target="9">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="660" y="1870" as="sourcePoint"/>
+                        <mxPoint x="760" y="1870" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;div&gt;isSubclassOf&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="16">
+                    <mxGeometry x="-0.0857" y="2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="12" target="11">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="310" y="2020" as="sourcePoint"/>
+                        <mxPoint x="450" y="1970" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;div&gt;isSubclassOf&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="19">
+                    <mxGeometry x="0.0701" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="The field of symbolic logic" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="2">
+                    <mxGeometry x="340" y="2060" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="22" target="10">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="300" y="2050" as="sourcePoint"/>
+                        <mxPoint x="300" y="1970" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;div&gt;isSubclassOf&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="23">
+                    <mxGeometry x="0.0701" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="&lt;div&gt;The field of artificial neural networks&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="2">
+                    <mxGeometry x="530" y="2210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;div&gt;The (standard) perceptron&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="2">
+                    <mxGeometry x="760" y="2210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="26" target="12">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="569.76" y="2145" as="sourcePoint"/>
+                        <mxPoint x="569.76" y="2035" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;div&gt;isSubclassOf&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="28">
+                    <mxGeometry x="0.0701" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="27" target="12">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="620" y="2220" as="sourcePoint"/>
+                        <mxPoint x="710" y="2150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="isInstanceOf" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="31">
+                    <mxGeometry x="0.0701" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="34" value="&lt;div&gt;Fuzzy capability: Basic understanding of the perceptron&lt;/div&gt;&lt;div&gt;ID: Hiea-Ripo-Uiae&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;dashed=1;" vertex="1" parent="2">
+                    <mxGeometry x="210" y="532.5" width="270" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Fuzzy capability: basic symbolic logic capabilities" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;dashed=1;" vertex="1" parent="2">
+                    <mxGeometry x="920" y="295" width="300" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;div&gt;Fuzzy capability: Basic understanding of &lt;br&gt;&lt;/div&gt;&lt;div&gt;the machine learning problem&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;dashed=1;" vertex="1" parent="2">
+                    <mxGeometry x="-270" y="530" width="270" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Challenge-set (draft)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For each challenge a binary data-set is randomly generated on the domain `\mathbb{R}^2`. It should be linearly separable. The data-set is presented in a graph with two axes. The learner has to manually draw a decision boundary, and then produce&amp;nbsp; the equation of the perceptron that has that decision boundary.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;fillColor=#ffe6cc;strokeColor=default;" vertex="1" parent="2">
+                    <mxGeometry x="340" y="1305.92" width="390" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Challenge-set (draft)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;For each challenge either a well-formed formula from propositional calculus, or a non well-formed formula from propositional calculus is randomly generated. The learner has to indicate whether the formula is well-formed or non-well-formed.&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;fillColor=#ffe6cc;strokeColor=default;shadow=0;sketch=0;glass=0;comic=0;treeMoving=0;treeFolding=0;backgroundOutline=0;collapsible=0;container=0;fixDash=0;noLabel=0;" vertex="1" collapsed="1" parent="2">
+                    <mxGeometry x="2020" y="1220" width="390" height="110" as="geometry">
+                        <mxRectangle x="750" y="790" width="1170" height="50" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="&lt;div align=&quot;center&quot;&gt;Fuzzy capability: Basic machine learning capabilities&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;dashed=1;" vertex="1" parent="2">
+                    <mxGeometry x="-110" y="310" width="415" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="36" target="39">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-10" y="420" as="sourcePoint"/>
+                        <mxPoint x="90" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="&lt;div&gt;hasCapInc&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="40">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="34" target="39">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-34.9655172413793" y="525" as="sourcePoint"/>
+                        <mxPoint x="107.51724137931024" y="380" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="&lt;div&gt;hasCapInc&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="42">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="36" target="34">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="30" y="564.66" as="sourcePoint"/>
+                        <mxPoint x="130" y="564.66" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="requiredFor" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="44">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="39" target="5">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="672.5" y="462.5" as="sourcePoint"/>
+                        <mxPoint x="425" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="&lt;div&gt;hasCapInc&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="46">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="35" target="5">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="107.5" y="320" as="sourcePoint"/>
+                        <mxPoint x="425" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="&lt;div&gt;hasCapInc&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="48">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="Fuzzy capability: basic understanding of propositional calculus" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;dashed=1;" vertex="1" parent="2">
+                    <mxGeometry x="2020" y="516" width="270" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="50" target="35">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="355" y="542.5" as="sourcePoint"/>
+                        <mxPoint x="107.57142857142844" y="380" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2155" y="450"/>
+                            <mxPoint x="1070" y="450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="&lt;div&gt;hasCapInc&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="51">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Challenge-set (draft)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;For each challenge, a real-world problem is shown that allows application of statistical machine learning. The input variables are mentioned in words (not formulas) and the variable that one wants to predict as well. The learner has to define the target-function in mathematical terms: each variable, the values each variable can take.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;fillColor=#ffe6cc;strokeColor=default;" vertex="1" parent="2">
+                    <mxGeometry x="-770" y="1230" width="390" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Challenge-set (draft)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;For each challenge, a random data set is generated, including an indication of what variable in that set has to be predicted. The learner has to define the associated target function.&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;fillColor=#ffe6cc;strokeColor=default;" vertex="1" parent="2">
+                    <mxGeometry x="-1230" y="1230" width="390" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="A &lt;b&gt;pursued-capablity&lt;/b&gt; is written in a box with rounded corners, and double lines." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" visible="0" parent="2">
+                    <mxGeometry x="830" y="20" width="360" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;rounded=1;strokeColor=none;shadow=0;" edge="1" parent="2" source="5" target="55">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="740" y="180" as="sourcePoint"/>
+                        <mxPoint x="790" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" visible="0" parent="2" source="38" target="55">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1030" y="600" as="sourcePoint"/>
+                        <mxPoint x="1000" y="220" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1050" y="395"/>
+                            <mxPoint x="1030" y="395"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="A &lt;b&gt;fuzzy-cabability &lt;/b&gt;is written as a pursued-capability box with rounded corners and a double dashed border. (&quot;Dashed&quot; symbolises that it is &quot;fuzzy&quot;.)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="2">
+                    <mxGeometry x="890" y="135" width="450" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="endArrow=oval;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;endFill=1;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;" edge="1" parent="2" source="5" target="58">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1140" y="500" as="sourcePoint"/>
+                        <mxPoint x="1120" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="60" value="A &lt;b&gt;challenge-set-induced-cabability &lt;/b&gt;is written as a box with rounded corners and a double closed-line border. (&quot;Solid line&quot; symbolises that it is &quot;sharply&quot; defined.)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="2">
+                    <mxGeometry x="3340" y="840" width="450" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="endArrow=oval;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;endFill=1;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;" edge="1" parent="2" source="126" target="60">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="2196.2500000000005" y="691.3088235294118" as="sourcePoint"/>
+                        <mxPoint x="2513.7499999999995" y="656.25" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2215" y="890"/>
+                            <mxPoint x="2975" y="890"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="A &lt;b&gt;&lt;i&gt;challenge-set&lt;/i&gt; &lt;/b&gt;is written as a box with square corners and a double solid-line border. (&quot;Solid line&quot;&amp;nbsp; symbolises that it is &quot;sharply&quot; defined.)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="2">
+                    <mxGeometry x="2600" y="1225" width="450" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="" style="endArrow=oval;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;endFill=1;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;" edge="1" parent="2" source="38" target="62">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="2350" y="1046.3" as="sourcePoint"/>
+                        <mxPoint x="2593.7499999999995" y="832.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="64" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2" source="151" target="87">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="60" y="960" as="sourcePoint"/>
+                        <mxPoint x="230" y="870" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" value="A sub-capability increment graph. A sub-capability-increment graph is, among other things, used to define a sharp implementation of a fuzzy capability." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="2">
+                    <mxGeometry x="-1140" y="410" width="450" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="" style="endArrow=oval;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;endFill=1;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;" edge="1" parent="2" source="65" target="4">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-640" y="760.0033333333334" as="sourcePoint"/>
+                        <mxPoint x="-550" y="760.0033333333334" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-915" y="620"/>
+                            <mxPoint x="-330" y="620"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="97" target="96">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1020" y="870" as="sourcePoint"/>
+                        <mxPoint x="-660" y="1190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="68" value="requiredFor" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="67">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="37" target="87">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="997.5" y="1120.48" as="sourcePoint"/>
+                        <mxPoint x="795" y="1004.08" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="70" value="defines" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="69">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;shadow=0;sketch=0;" vertex="1" connectable="0" parent="2">
+                    <mxGeometry x="-853.5" y="1720" width="317" height="116.88" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;double=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="71">
+                    <mxGeometry width="317" height="116.88" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="Challenge-set-induced capability" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;sketch=0;shadow=0;glass=0;" vertex="1" parent="71">
+                    <mxGeometry x="11" y="12.5" width="295" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="A &lt;b&gt;&lt;i&gt;composed challenge-set-induced capability&lt;/i&gt;&lt;/b&gt;. Its challenge set is equal to the union of the challenge-sets of the challenge-set induced capability that are attached to it with the &quot;isPartOf&quot; relation." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="2">
+                    <mxGeometry x="1320" y="300" width="450" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Challenge-set (draft)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;[Definition of challenge set.]&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;fillColor=#ffe6cc;strokeColor=default;" vertex="1" parent="2">
+                    <mxGeometry x="840" y="1305.92" width="390" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Challenge-set (draft)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;[Definition of challenge set.]&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;fillColor=#ffe6cc;strokeColor=default;" vertex="1" parent="2">
+                    <mxGeometry x="1380" y="1310" width="390" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=default;fillColor=none;gradientColor=none;align=center;verticalAlign=middle;dashed=1;" vertex="1" parent="2">
+                    <mxGeometry x="-1030" y="1590" width="670" height="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;Scratchpad for language &lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;developer, not part of definition&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;sketch=0;horizontal=1;fontSize=20;fontStyle=0" vertex="1" parent="2">
+                    <mxGeometry x="-793.5" y="1630" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2" source="87" target="110">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="390" y="816.2600000000002" as="sourcePoint"/>
+                        <mxPoint x="690" y="840" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="80" value="isPartOf" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="79">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=0.457;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2" source="110" target="34">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="485" y="690" as="sourcePoint"/>
+                        <mxPoint x="544.29" y="393.75" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="82" value="intendedToSharplyDefine" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="81">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=0.483;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2" source="75" target="88">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1355" y="1270.33" as="sourcePoint"/>
+                        <mxPoint x="1285" y="1160.33" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="84" value="defines" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="83">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="2" source="76" target="89">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1845" y="1230.33" as="sourcePoint"/>
+                        <mxPoint x="1680" y="1167.8200000000002" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="86" value="defines" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="85">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="Challenge-set-induced capability" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="2">
+                    <mxGeometry x="570" y="1040" width="270" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="&lt;div&gt;Challenge-set-induced capability&lt;/div&gt;&lt;div&gt;ID: Tuia-Lubri-Bliau&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="2">
+                    <mxGeometry x="895" y="1040" width="270" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="Challenge-set-induced capability" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="2">
+                    <mxGeometry x="1210" y="1040" width="270" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2" source="89" target="110">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="592.5" y="982.5" as="sourcePoint"/>
+                        <mxPoint x="662.5" y="920" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="91" value="isPartOf" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="90">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="2" source="88" target="110">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="650" y="902.5" as="sourcePoint"/>
+                        <mxPoint x="720" y="840" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="93" value="isPartOf" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="92">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="subCapingraphFor" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2" source="4" target="36">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-296.6099999999997" y="599.9974999999998" as="sourcePoint"/>
+                        <mxPoint x="-180" y="620" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-40" y="630"/>
+                            <mxPoint x="-202" y="630"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="95" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry x="1280" y="1090" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="Challenge-set-induced capability" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;glass=0;fillColor=none;" vertex="1" parent="2">
+                    <mxGeometry x="-710" y="901.24" width="270" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="Challenge-set-induced capability" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="2">
+                    <mxGeometry x="-1090" y="901.24" width="270" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+                    <mxGeometry x="-1110" y="740" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="53" target="96">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="1178.75" as="sourcePoint"/>
+                        <mxPoint x="170" y="920" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="100" value="defines" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="99">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="54" target="97">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-277.4285714285711" y="1261.26" as="sourcePoint"/>
+                        <mxPoint x="-320" y="1029.9999999999998" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="102" value="defines" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="101">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="103" value="" style="group" vertex="1" connectable="0" parent="2">
+                    <mxGeometry x="-890" y="700" width="280" height="77.49000000000001" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=default;fillColor=#CC6600;" vertex="1" parent="103">
+                    <mxGeometry width="280" height="77.49" as="geometry"/>
+                </mxCell>
+                <mxCell id="105" value="Challenge-set-induced capability" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="103">
+                    <mxGeometry x="5" y="4.990000000000009" width="270" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="106" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2" source="97" target="105">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1100" y="817.51" as="sourcePoint"/>
+                        <mxPoint x="-775" y="589.9999999999998" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="107" value="isPartOf" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="106">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="108" value="" style="group" vertex="1" connectable="0" parent="2">
+                    <mxGeometry x="890" y="740" width="280" height="77.49000000000001" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=default;fillColor=#CC6600;" vertex="1" parent="108">
+                    <mxGeometry width="280" height="77.49" as="geometry"/>
+                </mxCell>
+                <mxCell id="110" value="&lt;div&gt;Challenge-set-induced capability&lt;/div&gt;&lt;div&gt;ID: Stoeu-Auui-Teao&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="108">
+                    <mxGeometry x="5" y="4.990000000000009" width="270" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="&lt;div&gt;Fuzzy capability: Basic understanding of the perceptron&lt;/div&gt;&lt;div&gt;ID: Hiea-Ripo-Uiae&lt;br&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;dashed=1;" vertex="1" parent="2">
+                    <mxGeometry x="3260" y="705" width="270" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="112" value="Basic understanding of different types of artificial neurons" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;dashed=1;" vertex="1" parent="2">
+                    <mxGeometry x="3260" y="544.75" width="270" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2" source="111" target="112">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2870" y="534.75" as="sourcePoint"/>
+                        <mxPoint x="3187.5" y="454.75" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="114" value="&lt;div&gt;hasCapInc&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="113">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" value="&lt;div&gt;&lt;b&gt;Unique node identifiers&lt;/b&gt; (ID): Nodes with the same identifier, indicate exactly the same entity (fuzzy capability, challenge-set-induced capability, etc.). Given a set of nodes with the same ID. Conceptually, this set can be unified, by replacing it with one node out of the set, and connecting the arrows to and from the other nodes to that node (and throwing away the other nodes). This notation comes in handy when a graph becomes overcrowded with arrows.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tip: in diagram.net you can search for nodes that contain the same ID by clicking on an empty spot on the canvas, then press Ctrl-F, and then fill in the identifier. If you repeatedly click &quot;Find&quot;, all nodes with the same ID will be shown one after the other. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The IDs consist of 3 randomly generated words that are human readable, but do not mean anything. You can generate them (for the time being) with the site: &lt;a href=&quot;https://md5hashing.net/generate/password&quot;&gt;https://md5hashing.net/generate/password&lt;/a&gt;. (In the future, these IDs will be automatically generated by the capingraph-editor created by NQ-SED.)&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="2">
+                    <mxGeometry x="3700" y="530" width="480" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="116" value="" style="endArrow=oval;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;endFill=1;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;" edge="1" parent="2" source="111" target="115">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="3530" y="769.4300000000005" as="sourcePoint"/>
+                        <mxPoint x="3610" y="769.4300000000005" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="117" value="If a part of a graph is still under development, this &quot;todo-node&quot; can be drawn. It means: this has to be replaced in the future with one or more nodes of the given type, and at least one of these nodes has the relations that are currently drawn to the todo-node. Moreover, the future nodes will typically introduce new relations (arrows) between them and other nodes." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="2">
+                    <mxGeometry x="-127.5" y="1250" width="450" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="118" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;rounded=0;shadow=0;glass=0;dashed=1;comic=0;sketch=0;fillColor=none;gradientColor=none;" vertex="1" parent="2">
+                    <mxGeometry x="1990" y="780" width="700" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="119" value="" style="endArrow=oval;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;endFill=1;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;" edge="1" parent="2" source="117" target="151">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="30" y="1475.92" as="sourcePoint"/>
+                        <mxPoint x="-250" y="1055.92" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="90" y="1056"/>
+                            <mxPoint x="-230" y="1056"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="120" value="subCapingraphFor" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2" source="118" target="50">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2312.5" y="687.5" as="sourcePoint"/>
+                        <mxPoint x="2150" y="617.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="121" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="96" target="151">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-430" y="1019.9999999999998" as="sourcePoint"/>
+                        <mxPoint x="-320" y="1019.9999999999998" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="122" value="requiredFor" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="121">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" value="&lt;font style=&quot;font-size: 36px&quot;&gt;...&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;gradientColor=none;" vertex="1" parent="2">
+                    <mxGeometry x="1590" y="1040" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="124" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="2" source="38" target="126">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2280" y="1158.75" as="sourcePoint"/>
+                        <mxPoint x="2430" y="1170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="125" value="defines" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="124">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="Challenge-set-induced capability" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;" vertex="1" parent="2">
+                    <mxGeometry x="2080" y="930" width="270" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="127" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2" source="123" target="109">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1355" y="1050" as="sourcePoint"/>
+                        <mxPoint x="1040" y="822.4899999999998" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1720" y="925"/>
+                            <mxPoint x="1030" y="925"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="128" value="isPartOf" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="127">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="" link="data:page/id,Ry91slbPUAbdfRHzqaYw" id="129">
+                    <mxCell style="group" vertex="1" connectable="0" parent="2">
+                        <mxGeometry x="2796.16" y="671" width="197.67999999999984" height="90" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="" link="data:page/id,Ry91slbPUAbdfRHzqaYw" id="130">
+                    <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=23.33;indent=5;rounded=0;shadow=0;glass=0;dashed=1;comic=0;sketch=0;fillColor=none;gradientColor=none;dashPattern=1 2;perimeterSpacing=0;strokeColor=default;" vertex="1" parent="129">
+                        <mxGeometry width="197.68" height="90" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="131" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;dashed=1;dashPattern=1 4;image=data:image/svg+xml,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJsaW5rIiBjbGFzcz0ic3ZnLWlubGluZS0tZmEgZmEtbGluayBmYS13LTE2IiByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iLTAuMDAwNTE4Nzk4ODI4MTI1IC0wLjAwMDUwMzU0MDAzOTA2MjUgNTExLjk5OTg0NzQxMjEwOTQgNTEyLjAwMTAzNzU5NzY1NjIiIHdpZHRoPSI1MTEuOTk5ODQ3NDEyMTA5NCIgaGVpZ2h0PSI1MTIuMDAxMDM3NTk3NjU2MiI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNMzI2LjYxMiAxODUuMzkxYzU5Ljc0NyA1OS44MDkgNTguOTI3IDE1NS42OTguMzYgMjE0LjU5LS4xMS4xMi0uMjQuMjUtLjM2LjM3bC02Ny4yIDY3LjJjLTU5LjI3IDU5LjI3LTE1NS42OTkgNTkuMjYyLTIxNC45NiAwLTU5LjI3LTU5LjI2LTU5LjI3LTE1NS43IDAtMjE0Ljk2bDM3LjEwNi0zNy4xMDZjOS44NC05Ljg0IDI2Ljc4Ni0zLjMgMjcuMjk0IDEwLjYwNi42NDggMTcuNzIyIDMuODI2IDM1LjUyNyA5LjY5IDUyLjcyMSAxLjk4NiA1LjgyMi41NjcgMTIuMjYyLTMuNzgzIDE2LjYxMmwtMTMuMDg3IDEzLjA4N2MtMjguMDI2IDI4LjAyNi0yOC45MDUgNzMuNjYtMS4xNTUgMTAxLjk2IDI4LjAyNCAyOC41NzkgNzQuMDg2IDI4Ljc0OSAxMDIuMzI1LjUxbDY3LjItNjcuMTljMjguMTkxLTI4LjE5MSAyOC4wNzMtNzMuNzU3IDAtMTAxLjgzLTMuNzAxLTMuNjk0LTcuNDI5LTYuNTY0LTEwLjM0MS04LjU2OWExNi4wMzcgMTYuMDM3IDAgMCAxLTYuOTQ3LTEyLjYwNmMtLjM5Ni0xMC41NjcgMy4zNDgtMjEuNDU2IDExLjY5OC0yOS44MDZsMjEuMDU0LTIxLjA1NWM1LjUyMS01LjUyMSAxNC4xODItNi4xOTkgMjAuNTg0LTEuNzMxYTE1Mi40ODIgMTUyLjQ4MiAwIDAgMSAyMC41MjIgMTcuMTk3ek00NjcuNTQ3IDQ0LjQ0OWMtNTkuMjYxLTU5LjI2Mi0xNTUuNjktNTkuMjctMjE0Ljk2IDBsLTY3LjIgNjcuMmMtLjEyLjEyLS4yNS4yNS0uMzYuMzctNTguNTY2IDU4Ljg5Mi01OS4zODcgMTU0Ljc4MS4zNiAyMTQuNTlhMTUyLjQ1NCAxNTIuNDU0IDAgMCAwIDIwLjUyMSAxNy4xOTZjNi40MDIgNC40NjggMTUuMDY0IDMuNzg5IDIwLjU4NC0xLjczMWwyMS4wNTQtMjEuMDU1YzguMzUtOC4zNSAxMi4wOTQtMTkuMjM5IDExLjY5OC0yOS44MDZhMTYuMDM3IDE2LjAzNyAwIDAgMC02Ljk0Ny0xMi42MDZjLTIuOTEyLTIuMDA1LTYuNjQtNC44NzUtMTAuMzQxLTguNTY5LTI4LjA3My0yOC4wNzMtMjguMTkxLTczLjYzOSAwLTEwMS44M2w2Ny4yLTY3LjE5YzI4LjIzOS0yOC4yMzkgNzQuMy0yOC4wNjkgMTAyLjMyNS41MSAyNy43NSAyOC4zIDI2Ljg3MiA3My45MzQtMS4xNTUgMTAxLjk2bC0xMy4wODcgMTMuMDg3Yy00LjM1IDQuMzUtNS43NjkgMTAuNzktMy43ODMgMTYuNjEyIDUuODY0IDE3LjE5NCA5LjA0MiAzNC45OTkgOS42OSA1Mi43MjEuNTA5IDEzLjkwNiAxNy40NTQgMjAuNDQ2IDI3LjI5NCAxMC42MDZsMzcuMTA2LTM3LjEwNmM1OS4yNzEtNTkuMjU5IDU5LjI3MS0xNTUuNjk5LjAwMS0yMTQuOTU5eiIvPjwvc3ZnPg==;" vertex="1" parent="129">
+                    <mxGeometry x="12.68" y="8" width="29.59" height="29.59" as="geometry"/>
+                </mxCell>
+                <mxCell id="132" value="&lt;div&gt;Sub-graph-link: basic&lt;/div&gt;&lt;div&gt;predicate logic&lt;/div&gt;&lt;div&gt;capabilities.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;resizeWidth=1;resizeHeight=1;overflow=visible;" vertex="1" parent="129">
+                    <mxGeometry x="50.68" y="20" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="133" value="&lt;div&gt;Fuzzy capability: basic understanding of predicate logic&lt;/div&gt;&lt;div&gt;ID: Iewi-Uluh-Uave&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;dashed=1;" vertex="1" parent="2">
+                    <mxGeometry x="2760" y="510" width="270" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" value="subCapingraphFor" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="2" source="132" target="133">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2756.16" y="734" as="sourcePoint"/>
+                        <mxPoint x="2745.16" y="601.5" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2894.16" y="654"/>
+                            <mxPoint x="2894.16" y="654"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="135" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="2" source="133" target="35">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2030" y="559.6666666666665" as="sourcePoint"/>
+                        <mxPoint x="1080" y="395" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="136" value="&lt;div&gt;hasCapInc&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="135">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="&lt;div&gt;A &lt;b&gt;sub-graph-link &lt;/b&gt;is a link to a graph that forms a sub-graph of this graph. Sub-graph-links are a way to arrrange a large capability-increment-graph into (possibly nested) &quot;sections&quot;, among other things to promote clarity.&lt;/div&gt;&lt;div&gt;If you click the sub-graph-link,a link will be shown. If you click that link, it will jump to the sub-graph.&lt;/div&gt;&lt;div&gt;The nodes in this graph that have a relation with a node within the subgraph, are repeated in that subgraph. Therefore, it is important that these nodes carry an explicit unique node identifier.&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="2">
+                    <mxGeometry x="2950" y="190" width="450" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" value="" style="endArrow=oval;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;endFill=1;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;" edge="1" parent="2" source="130" target="137">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="2840" y="322.57142857142844" as="sourcePoint"/>
+                        <mxPoint x="3010" y="250" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="3175" y="716"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="139" value="&lt;div&gt;Given $$C_1 \xrightarrow{\text{isRequiredFor}} C_2,$$ where \(C_1\) and \(C_2\) are two challenge-set-induced capabiliies.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This means two things at the&amp;nbsp; same time: (1) Mastery of \(C_1\) is required to learn mastering \(C_2\) (even regardless of their composition-records), and (2)&amp;nbsp; Each composition-record of \(C_2\)&amp;nbsp; may assume that the learner has studied a composition-record of \(C_1\). Meaning &quot;(1)&quot; does not imply that the relation is necessarily intrinsically so. It is a requirement from the perspective of the learning strategy expressed in the capabiltiy-increment graph by its creators. There may well be people who learn to master \(C_2\) without \(C_1\) in other contexts.&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="2">
+                    <mxGeometry x="-1670" y="777.49" width="480" height="252.51" as="geometry"/>
+                </mxCell>
+                <mxCell id="140" value="" style="endArrow=oval;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;endFill=1;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;" edge="1" parent="2" source="139">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-1440" y="1054.96" as="sourcePoint"/>
+                        <mxPoint x="-760" y="950" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1440" y="1165"/>
+                            <mxPoint x="-760" y="1165"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="141" value="Untitled Layer" parent="0"/>
+                <mxCell id="142" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="141" source="96" target="105">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-650" y="868.7499999999998" as="sourcePoint"/>
+                        <mxPoint x="-445" y="739.9999999999998" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="143" value="isPartOf" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="142">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="144" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fillOpacity=50;" vertex="1" parent="141">
+                    <mxGeometry x="1180" y="990" width="340" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="145" value="The &lt;i&gt;&lt;b&gt;optional-region&lt;/b&gt;&lt;/i&gt; is a transparent gray box. It indicates that the part of the graph it covers is optional. Among other things, the covered part could be added in a later version or the implementation of a more advanced fuzzy capability." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="141">
+                    <mxGeometry x="1930" y="1580" width="450" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="146" value="" style="endArrow=oval;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;endFill=1;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;" edge="1" parent="141" source="110" target="74">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1275" y="370.00333333333344" as="sourcePoint"/>
+                        <mxPoint x="1535" y="370.00333333333344" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1570" y="779"/>
+                            <mxPoint x="1570" y="340"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="147" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="141" source="3" target="34">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="702.5" y="640" as="sourcePoint"/>
+                        <mxPoint x="540" y="540" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="148" value="subCapingraphFor" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="147">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="149" value="&lt;div&gt;The &lt;b&gt;&lt;i&gt;IntendedToSharplyDefine &lt;/i&gt;&lt;/b&gt;relation defines the challenge-set-induced capability that is intended to fully capture the fuzzy capability in the scope of this capability-increment-graph.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Note: this arrow is needed, because there can be more than one composed challenge-set-induced capability in a sub-capability-increment-graph. This arrow indicates the composed-challenge-set-induced-capability that fully captures the fuzzy capability to which it points.&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#BABABA;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="141">
+                    <mxGeometry x="570" y="410" width="450" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="150" value="" style="endArrow=oval;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;endFill=1;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;" edge="1" parent="141" target="149">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="680" y="662" as="sourcePoint"/>
+                        <mxPoint x="1640" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="151" value="&lt;font style=&quot;font-size: 36px&quot;&gt;...&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;gradientColor=none;" vertex="1" parent="141">
+                    <mxGeometry x="-360" y="894.99" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="152" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="141" source="151">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-235" y="868.7499999999998" as="sourcePoint"/>
+                        <mxPoint x="-750" y="780" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-230" y="836"/>
+                            <mxPoint x="-750" y="836"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="153" value="isPartOf" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="152">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="154" value="&lt;font style=&quot;font-size: 36px&quot;&gt;...&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;gradientColor=none;" vertex="1" parent="141">
+                    <mxGeometry x="2420" y="930" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="155" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;endFill=1;edgeStyle=orthogonalEdgeStyle;startArrow=oval;startFill=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="141" source="145" target="144">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="1950" y="1410" as="sourcePoint"/>
+                        <mxPoint x="1520" y="1070" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="2155" y="1540"/>
+                            <mxPoint x="1870" y="1540"/>
+                            <mxPoint x="1870" y="1190"/>
+                            <mxPoint x="1435" y="1190"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="Sub1" id="Ry91slbPUAbdfRHzqaYw">
+        <mxGraphModel dx="211" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="wxawY5B_v7FCxleLkRZE-0"/>
+                <mxCell id="wxawY5B_v7FCxleLkRZE-1" parent="wxawY5B_v7FCxleLkRZE-0"/>
+                <mxCell id="XLfZr_PGdeQ6WFDYioxW-0" value="&lt;div&gt;Fuzzy capability: basic understanding of predicate logic&lt;/div&gt;&lt;div&gt;ID: Iewi-Uluh-Uave&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;dashed=1;" vertex="1" parent="wxawY5B_v7FCxleLkRZE-1">
+                    <mxGeometry x="1605" y="80" width="270" height="67.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="psMA5OixXFs1bB4b1Udu-0" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;rounded=0;shadow=0;glass=0;dashed=1;comic=0;sketch=0;fillColor=none;gradientColor=none;" vertex="1" parent="wxawY5B_v7FCxleLkRZE-1">
+                    <mxGeometry x="1390" y="310" width="700" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="psMA5OixXFs1bB4b1Udu-1" value="defines" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="wxawY5B_v7FCxleLkRZE-1">
+                    <mxGeometry x="1605" y="638" as="geometry"/>
+                </mxCell>
+                <mxCell id="psMA5OixXFs1bB4b1Udu-3" value="&lt;font style=&quot;font-size: 36px&quot;&gt;...&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;gradientColor=none;" vertex="1" parent="wxawY5B_v7FCxleLkRZE-1">
+                    <mxGeometry x="1615" y="430" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="CI1d2nZq5zGLxVrgflft-0" value="subCapingraphFor" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="wxawY5B_v7FCxleLkRZE-1" source="psMA5OixXFs1bB4b1Udu-0" target="XLfZr_PGdeQ6WFDYioxW-0">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="2180" y="810" as="sourcePoint"/>
+                        <mxPoint x="1995" y="613.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
